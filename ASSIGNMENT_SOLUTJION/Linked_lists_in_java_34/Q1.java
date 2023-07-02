@@ -1,4 +1,4 @@
-
+//Intakhab Alam
 /*Q1. Given a linked list and a key ‘X‘ in, the task is to check if X is present in the linked list or not.
 Examples:
 INPUT : 14->21->11->30->10, X = 14
@@ -55,6 +55,7 @@ class linkedlist {
         currNode.next = newNode;
     }
 
+    //Implementation for the searching of a elements in a linked list
     public String isFound(int target) {
         if (head == null) {
             return "No";
