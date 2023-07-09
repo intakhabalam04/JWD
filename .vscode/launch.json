@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Q44",
+            "request": "launch",
+            "mainClass": "Q44",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Qgfa3",
+            "request": "launch",
+            "mainClass": "Qgfa3",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Qfgdfgd1",
+            "request": "launch",
+            "mainClass": "Qfgdfgd1",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        },
+        {
+            "type": "java",
+            "name": "SumLinkedLists",
+            "request": "launch",
+            "mainClass": "SumLinkedLists",
+            "projectName": "PWS-JWD-SD_70dcf979"
+        }
+    ]
+}
