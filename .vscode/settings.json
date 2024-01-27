@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "ASSIGNMENT_SOLUTJION/Linked_lists_in_java_34",
-        "ASSIGNMENT_SOLUTJION/HashMap_35",
-        "ASSIGNMENT_SOLUTJION/HASHMAP_STACK_QUEUE/HASHMAP"
+        "ASSIGNMENT_SOLUTJION/HASHMAP_STACK_QUEUE/HASHMAP",
+        "ASSIGNMENT_SOLUTJION/HASHMAP_STACK_QUEUE/STACK",
+        "ASSIGNMENT_SOLUTJION\\HASHMAP_STACK_QUEUE\\STACK"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
